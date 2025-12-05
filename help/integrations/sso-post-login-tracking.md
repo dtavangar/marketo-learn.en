@@ -75,7 +75,7 @@ This model assumes all SSO users are valid Marketo contacts. If a user exists in
 
 ![Create Custom  Fields](assets/sso-post-login-tracking-4.png)
 
-
+ssss
 ---
 
 ## Step 2: (Optional) Create identity support fields
