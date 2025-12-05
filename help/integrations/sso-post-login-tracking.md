@@ -58,10 +58,9 @@ This model assumes all SSO users are valid Marketo contacts. If a user exists in
 
 ## Step 1: Create the Custom Activity in Marketo
 
-1. Go to **Admin > Database Management > Custom Activities**.
+1. Go to **Admin -> Database Management -> Custom Activities**.
 2. Create a new Custom Activity.
-   - **Name:** SSO Content View  
-   - **API Name:** SSOContentView
+   - **Name:** Content Viewed  
 3. Create the following fields:
    - **Content Title**
      - API Name: `contentTitle`
@@ -218,15 +217,8 @@ This model enforces the following identity behavior:
 
 ## Step 10: Video demonstration
 
-The included video demonstrates:
 
-1. SSO login
-2. Dynamic post-login content hub
-3. Real-time Custom Activity creation
-4. Smart Campaign execution
-5. Automatic Acquisition Program assignment and scoring
-
-This video represents the **entire end-to-end process**.
+[!VIDEO](assets/sso-post-login-tracking.mov)
 
 ---
 
